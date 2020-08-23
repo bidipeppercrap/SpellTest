@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bidipeppercrap/SpellTest.Console/SpellTest.Console.csproj": {}
+  },
+  "projects": {
+    "/home/bidipeppercrap/SpellTest.Console/SpellTest.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bidipeppercrap/SpellTest.Console/SpellTest.Console.csproj",
+        "projectName": "SpellTest.Console",
+        "projectPath": "/home/bidipeppercrap/SpellTest.Console/SpellTest.Console.csproj",
+        "packagesPath": "/home/bidipeppercrap/.nuget/packages/",
+        "outputPath": "/home/bidipeppercrap/SpellTest.Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bidipeppercrap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/home/bidipeppercrap/.nupkg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/bidipeppercrap/.dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

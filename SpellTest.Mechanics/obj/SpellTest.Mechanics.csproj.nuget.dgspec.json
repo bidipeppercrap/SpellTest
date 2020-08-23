@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bidipeppercrap/SpellTest.Mechanics/SpellTest.Mechanics.csproj": {}
+  },
+  "projects": {
+    "/home/bidipeppercrap/SpellTest.Mechanics/SpellTest.Mechanics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bidipeppercrap/SpellTest.Mechanics/SpellTest.Mechanics.csproj",
+        "projectName": "SpellTest.Mechanics",
+        "projectPath": "/home/bidipeppercrap/SpellTest.Mechanics/SpellTest.Mechanics.csproj",
+        "packagesPath": "/home/bidipeppercrap/.nuget/packages/",
+        "outputPath": "/home/bidipeppercrap/SpellTest.Mechanics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bidipeppercrap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/home/bidipeppercrap/.nupkg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/bidipeppercrap/.dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

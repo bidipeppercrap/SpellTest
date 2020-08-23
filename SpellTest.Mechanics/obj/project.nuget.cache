@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWI4nd66sR53jdLGiT6KO8dKcN6ZXgaPDoZ9kjvKuE9LmHjHqjalzIVD0q9xiPGzM9RAjBjYuKaxM0vWO+vxdA==",
+  "success": true,
+  "projectFilePath": "/home/bidipeppercrap/SpellTest.Mechanics/SpellTest.Mechanics.csproj",
+  "expectedPackageFiles": [
+    "/home/bidipeppercrap/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/bidipeppercrap/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
